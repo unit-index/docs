@@ -79,4 +79,4 @@ _Get the hourly unit data of a specific coin_
 
 
 
-More queries are coming soon.
+More queries coming soon
