@@ -11,6 +11,7 @@
 ## The Unit
 
 * [The Unit Algorithm](the-unit/algorithm.md)
+* [The Unit Selection Criteria](the-unit/the-unit-selection-criteria.md)
 * [The Unit API](the-unit/the-unit-api.md)
 * [The Unit Governance](the-unit/governance.md)
 
