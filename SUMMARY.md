@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the 2ØY Docs](README.md)
+* [Welcome to The Unit Docs](README.md)
 
 ## Subjects
 
