@@ -16,4 +16,4 @@
 ## THE UNIT GAME
 
 * [Architecture Diagram](the-unit-game/architecture-diagram.md)
-* [Game Steps](the-unit-game/game-steps.md)
+* [Process](the-unit-game/process.md)
