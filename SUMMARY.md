@@ -12,3 +12,8 @@
 * [The Unit Selection Criteria](the-unit/the-unit-selection-criteria.md)
 * [The Unit API](the-unit/the-unit-api.md)
 * [The Unit Governance](the-unit/governance.md)
+
+## THE UNIT GAME
+
+* [Architecture Diagram](the-unit-game/architecture-diagram.md)
+* [Game Steps](the-unit-game/game-steps.md)

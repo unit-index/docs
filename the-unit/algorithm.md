@@ -8,7 +8,7 @@ The value of 1 unit comes from the total market capitalization of our index devi
 
 ## Calculating the Total Market Capitalization
 
-The total market capitalization is calculated by choosing cryptocurrency $$0$$ with supply $$S_0$$_ and adding the available supplies of each cryptocurrency _$$(S_i)$$_times the price of each cryptocurrency _$$i$$_ in terms of cryptocurrency _$$0$$_ _$$(P_{i,0})$$_._
+The total market capitalization is calculated by choosing cryptocurrency $$0$$ with supply $$S_0$$ _and adding the available supplies of each cryptocurrency_ $$(S_i)$$_times the price of each cryptocurrency_ $$i$$ _in terms of cryptocurrency_ $$0$$ __ $$(P_{i,0})$$_._
 
 $$
 S_0+S_1 P_{1,0}+ S_2\ P_{2,0}+\cdots+ S_n\ P_{n,0} = \displaystyle\sum_{i=0}^{n} S_iP_{i,0}
