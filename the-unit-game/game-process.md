@@ -2,7 +2,7 @@
 description: These are the steps The Unit Game takes.
 ---
 
-# Process
+# Game Process
 
 ## Game Steps
 
@@ -12,4 +12,6 @@ description: These are the steps The Unit Game takes.
 4. The Protocol Reserve will then accrue the total funds from the Yield Source and deposit funds into the Prize Distributor for players to claim their Prizes given they have the winning tickets.
 5. Players claim their prizes.
 
-## Sample Round
+## Game Period
+
+## Sample Game
