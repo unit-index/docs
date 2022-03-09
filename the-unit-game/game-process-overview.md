@@ -15,7 +15,7 @@ description: These are the steps The Unit Game takes.
 ## Basic Game Rules
 
 1. A question is posted.
-2. Players make their bets.
+2. Players make their deposits.
 3. The outcome is decided.
 4. Players claim their prizes.
 
