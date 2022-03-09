@@ -12,8 +12,6 @@ $$
 
 for $$p$$ being the probability of "yes".
 
-This yields that the total number of UNIT deposited into the pool is equal to the total number of yUNIT and nUNIT tickets issued.
-
 On subsequent days, ticket prices depend on the updated probability of the outcome on that day.&#x20;
 
 In the Ethereum network, for $$V$$ the price of 1 ETH in UNIT and $$p$$ the updated probability of "yes" we get that 1 ETH will yield the following amount of yUNIT and nUNIT tickets.
