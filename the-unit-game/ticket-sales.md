@@ -26,7 +26,7 @@ $$
 1 \;\textrm{ETH}= V * p \;\textrm{nUNIT}.
 $$
 
-## Example of Ticket Sale Calculation
+## Example of Ticket Sale Calculation (Day 1)
 
 Question: Will coin A enter The UNIT this round?
 
