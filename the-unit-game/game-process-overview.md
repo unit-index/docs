@@ -4,7 +4,7 @@ description: These are the steps The Unit Game takes.
 
 # Game Process Overview
 
-## Game Steps
+## Basic Steps
 
 1. A player can purchase yUNIT or nUNIT tickets by depositing into the Prize Pool.&#x20;
 2. Once a deposit is made, yUNIT or nUNIT tickets are minted and sent to the player's wallet.&#x20;
@@ -12,7 +12,7 @@ description: These are the steps The Unit Game takes.
 4. The Protocol Reserve will then accrue the total funds from the Yield Source and deposit funds into the Prize Distributor for players to claim their Prizes given they have the winning tickets.
 5. Players claim their prizes.
 
-## Game Rules
+## Basic Game Rules
 
 1. A question is posted.
 2. Players make their bets.
