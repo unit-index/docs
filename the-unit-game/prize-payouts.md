@@ -1,3 +1,7 @@
+---
+description: Why is this not showing up?
+---
+
 # Prize Payouts
 
 Prizes will be distributed evenly among all winning tickets.&#x20;
