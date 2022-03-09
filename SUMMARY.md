@@ -16,6 +16,6 @@
 ## THE UNIT GAME
 
 * [Architecture Diagram](the-unit-game/architecture-diagram.md)
-* [Game Process](the-unit-game/game-process.md)
+* [Game Process Overview](the-unit-game/game-process-overview.md)
 * [Ticket Sales](the-unit-game/ticket-sales.md)
 * [Prize Payouts](the-unit-game/prize-payouts.md)

@@ -2,7 +2,7 @@
 description: These are the steps The Unit Game takes.
 ---
 
-# Game Process
+# Game Process Overview
 
 ## Game Steps
 
@@ -26,3 +26,10 @@ Each round will take 13 days to complete. However, outcomes might be decided ear
 
 
 ## Sample Game
+
+1. Question posted: Will XMR enter The Unit?
+2. In the Ethereum network, Alice deposits 1 ETH in the Prize Pool to bet that XMR will enter The Unit in the given period.
+3. Alice recieves an amount A of yUNIT.
+4. At the end of the round, XMR enters The Unit.&#x20;
+5. Alice wins.
+6. Alice claims his reward from the Prize Distributor and obtains his reward, based on the yUNIT tokens she holds.

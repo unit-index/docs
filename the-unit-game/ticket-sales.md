@@ -12,7 +12,7 @@ $$
 
 for $$p$$ being the probability of "yes".
 
-On subsequent days, ticket prices depend on the updated probability of the outcome on that day.&#x20;
+On subsequent days, ticket prices depend on the updated probability of the outcome on each day.&#x20;
 
 In the Ethereum network, for $$V$$ the price of 1 ETH in UNIT and $$p$$ the updated probability of "yes" we get that 1 ETH will yield the following amount of yUNIT and nUNIT tickets.
 
@@ -24,7 +24,7 @@ $$
 1 \;\textrm{ETH}= V * p \;\textrm{nUNIT}.
 $$
 
-## Example
+## Example of Ticket Sale Calculation
 
 Question: Will coin A enter The UNIT this round?
 
