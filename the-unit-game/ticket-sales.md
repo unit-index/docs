@@ -1,5 +1,7 @@
 # Ticket Sales
 
+The purchase value of tickets depends on the price in UNIT of the cryptocurrencies deposited and the probability of the outcome.
+
 On day 1 of the round, tickets (yUNIT and nUNIT) are priced in UNIT at the rate of&#x20;
 
 $$
