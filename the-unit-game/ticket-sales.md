@@ -37,7 +37,7 @@ p = \frac{1}{2^{13}}\biggl[\binom{13}{8}+\binom{13}{9}+\binom{13}{10}+\binom{13}
 $$
 
 $$
-p \approx 0.29052734375
+p =\frac{2380}{8192}= 0.29052734375.
 $$
 
 Then, if 1 ETH is currently worth 1000 UNIT, then
@@ -48,4 +48,30 @@ $$
 
 $$
 1 \;\textrm{ETH}= 1000 * 0.29052734375 \;\textrm{nUNIT} = 290.52734375\;\textrm{nUNIT}.
+$$
+
+## Example of Ticket Sale Calculation (Day 2)
+
+Same Question: Will coin A enter The UNIT this round?
+
+Known Data: On Day 1, coin A met the requirements to enter The Unit.
+
+Again, calculate the probability $$p_1$$ that coin A will enter The UNIT in this round given equal $$0.5$$ probability that it will satisfy the requirements in any given day.
+
+$$
+p_1 = \frac{1}{2^{12}}\biggl[\binom{12}{7}+\binom{12}{8}+\binom{12}{9}+\binom{12}{10}+\binom{12}{11}+\binom{12}{12}\biggr]
+$$
+
+$$
+p_1 = \frac{1586}{4096} =0.38720703125.
+$$
+
+Then, if 1 ETH is currently worth 1000 UNIT, then
+
+$$
+1 \;\textrm{ETH}= 1000*  0.61279296875\;\textrm{yUNIT}=612.79296875\;\textrm{yUNIT},
+$$
+
+$$
+1 \;\textrm{ETH}= 1000 * 0.38720703125 \;\textrm{nUNIT} = 387.20703125\;\textrm{nUNIT}.
 $$
