@@ -4,7 +4,7 @@ description: The Unit API uses GraphQL
 
 # The Unit API
 
-Playground Url: https://graph.20y.org
+Playground Url: https://graph.theunit.one
 
 ## Schemas
 
@@ -36,15 +36,15 @@ Playground Url: https://graph.20y.org
 _Get the unit price of a coin_
 
 * (Required Param) coin\_id: String - the id of the coin
-* (Return value) if the coin passed as param is in our supported list, this query will return the corresponding unit price; if not in the list, it will return error message.&#x20;
+* (Return value) if the coin passed as param is in our supported list, this query will return the corresponding unit price; if not in the list, it will return error message.
 
-**supportedCoinList: \[String] **
+\*\*supportedCoinList: \[String] \*\*
 
 _Get the list of coins supported to get the unit price_
 
 * (Return Value) List of coin ids supported in coinUnitPrice query
 
-**coinUnitPriceWithCurrency: Float **
+\*\*coinUnitPriceWithCurrency: Float \*\*
 
 _If the coin is not in supported list, get the unit price with a stable-coin currency and amount_
 
@@ -76,7 +76,5 @@ _Get the hourly unit data of a specific coin_
 
 * (Required Param) coin\_id: String - the id of the coin to be queried
 * (Optional Param) limit: Int - How many records will be returned in the response
-
-
 
 More queries coming soon
