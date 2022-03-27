@@ -4,22 +4,22 @@ __[_The Unit_ paper](https://github.com/toknowwhy/the-unit-paper/blob/main/the\_
 
 ## How to Obtain The Unit value
 
-The value of 1 unit comes from the total market capitalization of our index devided by human years.
+The value of 1 unit comes from the total market capitalization of our index divided by human years.
 
 ## Calculating the Total Market Capitalization
 
-The total market capitalization is calculated by choosing cryptocurrency $$0$$ with supply $$S_0$$ _and adding the available supplies of each cryptocurrency_ $$(S_i)$$_times the price of each cryptocurrency_ $$i$$ _in terms of cryptocurrency_ $$0$$ __ $$(P_{i,0})$$_._
+The total market capitalization is calculated by choosing cryptocurrency $$1$$ with supply $$S_1$$ _and adding the available supplies of each cryptocurrency_ $$(S_c)$$_times the price of each cryptocurrency_ $$c$$ _in terms of cryptocurrency_ $$1$$ __ $$(P_{c,1})$$_._
 
 $$
-S_0+S_1 P_{1,0}+ S_2\ P_{2,0}+\cdots+ S_n\ P_{n,0} = \displaystyle\sum_{i=0}^{n} S_iP_{i,0}
+S_1+S_2 P_{2,1}+\cdots+ S_n\ P_{n,1} = \displaystyle\sum_{c=0}^{n} S_cP_{c,1}
 $$
 
 ## Finally
 
-We let $$N$$ be the current total number of humans and $$Y$$the average life expectancy. And one unit of value is defined by:
+We let $$N$$ be the current total number of humans and $$Y$$the average life expectancy at birth. And one unit of value is defined by:
 
 
 
 $$
-\frac{S_0+S_1 P_{1,0}+ S_2\ P_{2,0}+\cdots+ S_n\ P_{n,0}}{NY}
+\frac{S_1+S_2 P_{2,1}+\cdots+ S_n\ P_{n,1}}{NY}.
 $$
