@@ -3,11 +3,13 @@
 Label the coins in The Unit $$1,\ldots,n$$. For each coin $$i$$ in $$\{1,\ldots,n\}$$&#x20;
 
 $$
-R_{c,180}=\frac{\displaystyle\sum_{d=1}^{180} S_{c,d}P_{c,0,d}}{\displaystyle\sum_{d=1}^{180}V_{c,0,d}}.
+R_{c,180}=\frac{\displaystyle\sum_{d=1}^{180} S_{c,d}P_{c,d}}{\displaystyle\sum_{d=1}^{180}V_{c,d}},
 $$
+
+where $$S_{c,d}$$ is the supply of coin $$c$$ on day $$d$$, $$P_{c,d}$$ is the price in UNIT of coin $$c$$ on day $$d$$, and $$V_{c,d}$$ is the trading volume of coin $$c$$ on day $$d$$.
 
 Then,
 
 $$
-R=\frac{\displaystyle\sum_{c=1}^{n} R_c}{n}.
+R=\frac{\displaystyle\sum_{c=1}^{n} R_{c,180}}{n}.
 $$
