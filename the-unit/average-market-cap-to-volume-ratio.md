@@ -1,6 +1,6 @@
 # Average Market Cap to Volume Ratio
 
-Label the coins in The Unit $$1,\ldots,n$$. For each coin $$c$$ in $$\{1,\ldots,n\}$$ and each of the last 180 days $$d$$,
+Label the coins in The Unit $$1,\ldots,n$$. For each coin $$c$$ in $$\{1,\ldots,n\}$$ and each day $$d$$ of the last 180 days,
 
 $$
 R_{c,180}=\frac{\displaystyle\sum_{d=1}^{180} S_{c,d}P_{c,d}}{\displaystyle\sum_{d=1}^{180}V_{c,d}},
