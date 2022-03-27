@@ -4,7 +4,7 @@ __[_The Unit_ paper](https://github.com/toknowwhy/the-unit-paper/blob/main/the\_
 
 ## How to Obtain The Unit value
 
-The value of 1 unit comes from the total market capitalization of our index divided by human years.
+The value of 1 UNIT comes from the total market capitalization of our index divided by human years.
 
 ## Calculating the Total Market Capitalization
 
