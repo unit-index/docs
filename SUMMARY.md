@@ -22,6 +22,7 @@
 * [Closing a Vault](unit-token/closing-a-vault.md)
 * [Staking Incentives](unit-token/staking-incentives.md)
 * [Account Liquidations](unit-token/account-liquidations.md)
+* [Vault Management Guide](unit-token/vault-management-guide.md)
 
 ## THE UNIT GAME
 
