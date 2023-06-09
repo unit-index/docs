@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to The Unit Docs](README.md)
+* [Welcome to The UNIT Docs](README.md)
 
 ## Intro
 
