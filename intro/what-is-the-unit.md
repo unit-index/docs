@@ -1,3 +1,6 @@
-# What is The Unit?
+# What is UNIT?
 
-The Unit is a **decentralized index** designed to become the **unit of account** of the metaverse. We compare The Unit index in crypto to the S\&P 500 in the US stock market, but in this case, we also see The Unit as a crypto unit of account.
+**UNIT(Ø)** is an **unbiased unit of account** created from a set of cryptocurrencies coming from an [**Open Selection Criteria**](../the-unit/the-unit-selection-criteria.md) and glued together through an [**Open Algorithm**](../the-unit/algorithm.md) that includes [**population data**](../the-unit/population-data.md).
+
+
+

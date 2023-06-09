@@ -4,7 +4,7 @@
 
 ## Intro
 
-* [What is The Unit?](intro/what-is-the-unit.md)
+* [What is UNIT?](intro/what-is-the-unit.md)
 * [Why do we need The Unit?](intro/why-do-we-need-the-unit.md)
 
 ## The Unit
