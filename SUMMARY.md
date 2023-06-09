@@ -5,16 +5,16 @@
 ## Intro
 
 * [What is UNIT?](intro/what-is-the-unit.md)
-* [Why do we need The Unit?](intro/why-do-we-need-the-unit.md)
+* [Why do we need UNIT?](intro/why-do-we-need-unit.md)
 
 ## The Unit
 
-* [The Unit Algorithm](the-unit/algorithm.md)
-* [The Unit Selection Criteria](the-unit/the-unit-selection-criteria.md)
+* [UNIT's Algorithm](the-unit/algorithm.md)
+* [UNIT's Selection Criteria](the-unit/units-selection-criteria.md)
 * [Average Market Cap to Volume Ratio](the-unit/average-market-cap-to-volume-ratio.md)
 * [Population Data](the-unit/population-data.md)
-* [The Unit API](the-unit/the-unit-api.md)
-* [The Unit Governance](the-unit/governance.md)
+* [UNIT's API](the-unit/the-unit-api.md)
+* [The UNIT Governance](the-unit/governance.md)
 
 ## UNIT Token
 
