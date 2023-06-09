@@ -5,25 +5,25 @@
 ## Intro
 
 * [What is UNIT?](intro/what-is-the-unit.md)
-* [Why do we need UNIT?](intro/why-do-we-need-unit.md)
+* [Why do we need UNIT?](intro/why-do-we-need-the-unit.md)
 
 ## The Unit
 
 * [UNIT's Algorithm](the-unit/algorithm.md)
-* [UNIT's Selection Criteria](the-unit/units-selection-criteria.md)
+* [UNIT's Selection Criteria](the-unit/the-unit-selection-criteria.md)
 * [Average Market Cap to Volume Ratio](the-unit/average-market-cap-to-volume-ratio.md)
 * [Population Data](the-unit/population-data.md)
 * [UNIT's API](the-unit/the-unit-api.md)
 * [The UNIT Governance](the-unit/governance.md)
 
-## UNIT Token
+## TINU
 
-* [Intro](unit-token/intro.md)
-* [Collateralized Vaults: UNIT Minting, Burning](unit-token/collateralized-vaults-unit-minting-burning.md)
-* [Closing a Vault](unit-token/closing-a-vault.md)
-* [Staking Incentives](unit-token/staking-incentives.md)
-* [Account Liquidations](unit-token/account-liquidations.md)
-* [Vault Management Guide](unit-token/vault-management-guide.md)
+* [Intro](tinu/intro.md)
+* [Collateralized Vaults: TINU Minting & Burning](tinu/collateralized-vaults-tinu-minting-and-burning.md)
+* [Closing a Vault](tinu/closing-a-vault.md)
+* [Staking Incentives](tinu/staking-incentives.md)
+* [Account Liquidations](tinu/account-liquidations.md)
+* [Vault Management Guide](tinu/vault-management-guide.md)
 
 ## THE UNIT GAME
 
