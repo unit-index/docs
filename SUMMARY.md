@@ -21,7 +21,7 @@
 * [Intro](tinu/intro.md)
 * [Collateralized Vaults: TINU Minting & Burning](tinu/collateralized-vaults-tinu-minting-and-burning.md)
 * [Closing a Vault](tinu/closing-a-vault.md)
-* [Staking Incentives](tinu/staking-incentives.md)
+* [Early Incentives](tinu/early-incentives.md)
 * [Account Liquidations](tinu/account-liquidations.md)
 * [Vault Management Guide](tinu/vault-management-guide.md)
 
