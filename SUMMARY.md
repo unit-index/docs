@@ -25,9 +25,9 @@
 * [Account Liquidations](tinu/account-liquidations.md)
 * [Vault Management Guide](tinu/vault-management-guide.md)
 
-## THE UNIT GAME
+## THE UNIT PRIZE POOL
 
-* [Architecture Diagram](the-unit-game/architecture-diagram.md)
-* [Game Process Overview](the-unit-game/game-process-overview.md)
-* [Ticket Sales](the-unit-game/ticket-sales.md)
-* [Prize Payouts](the-unit-game/prize-payouts.md)
+* [Architecture Diagram](the-unit-prize-pool/architecture-diagram.md)
+* [Game Process Overview](the-unit-prize-pool/game-process-overview.md)
+* [Ticket Sales](the-unit-prize-pool/ticket-sales.md)
+* [Prize Payouts](the-unit-prize-pool/prize-payouts.md)

@@ -54,7 +54,7 @@ $$
 
 Same Question: Will coin A enter The UNIT this round?
 
-Known Data: On Day 1, coin A met the requirements to enter The Unit.
+Known Data: On Day 1, coin A met the requirements to enter The UNIT.
 
 Again, calculate the probability $$p_1$$ that coin A will enter The UNIT in this round given equal $$0.5$$ probability that it will satisfy the requirements in any given day.
 

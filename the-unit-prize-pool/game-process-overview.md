@@ -39,6 +39,6 @@ Each round will take 13 days to complete. However, outcomes might be decided ear
 1. Question posted: Will XMR enter The Unit?
 2. In the Ethereum network, Bob deposits 1 ETH in the Prize Pool to bet that XMR will not enter The Unit in the given period.
 3. Bob recieves an amount B of nUNIT.
-4. At the end of the round, XMR enters The Unit.
+4. At the end of the round, XMR enters The UNIT.
 5. Bob is wrong.
 6. Bob claims his reward from the Prize Distributor and obtains his reward based on the yUNIT tokens he holds. In this case, the reward consists of the yield accrued by the coins deposited by all players.
