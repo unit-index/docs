@@ -7,27 +7,30 @@
 * [What is UNIT?](intro/what-is-the-unit.md)
 * [Why do we need UNIT?](intro/why-do-we-need-the-unit.md)
 
-## The Unit
+## UNIT
 
-* [UNIT's Algorithm](the-unit/algorithm.md)
-* [UNIT's Selection Criteria](the-unit/the-unit-selection-criteria.md)
-* [Average Market Cap to Volume Ratio](the-unit/average-market-cap-to-volume-ratio.md)
-* [Population Data](the-unit/population-data.md)
-* [UNIT's API](the-unit/the-unit-api.md)
-* [The UNIT Governance](the-unit/governance.md)
+* [UNIT's Algorithm](unit/algorithm.md)
+* [UNIT's Selection Criteria](unit/units-selection-criteria.md)
+* [Average Market Cap to Volume Ratio](unit/average-market-cap-to-volume-ratio.md)
+* [Population Data](unit/population-data.md)
+* [UNIT's API](unit/the-unit-api.md)
+* [The UNIT Governance](unit/governance.md)
 
-## TINU
+## UNIT Vaults
 
-* [Intro](tinu/intro.md)
-* [Collateralized Vaults: TINU Minting & Burning](tinu/collateralized-vaults-tinu-minting-and-burning.md)
-* [Closing a Vault](tinu/closing-a-vault.md)
-* [Early Incentives](tinu/staking-incentives.md)
-* [Account Liquidations](tinu/account-liquidations.md)
-* [Vault Management Guide](tinu/vault-management-guide.md)
+* [Intro](unit-vaults/intro.md)
+* [Collateralized Vaults: TINU Minting & Burning](unit-vaults/collateralized-vaults-tinu-minting-and-burning.md)
+* [Closing a Vault](unit-vaults/closing-a-vault.md)
+* [Account Liquidations](unit-vaults/account-liquidations.md)
+* [Vault Management Guide](unit-vaults/vault-management-guide.md)
+
+## UNIT Farms
+
+* [Early Incentives](unit-farms/early-incentives.md)
 
 ## THE UNIT PRIZE POOL
 
-* [Architecture Diagram](the-unit-prize-pool/architecture-diagram.md)
-* [Game Process Overview](the-unit-prize-pool/game-process-overview.md)
-* [Ticket Sales](the-unit-prize-pool/ticket-sales.md)
-* [Prize Payouts](the-unit-prize-pool/prize-payouts.md)
+* [Architecture Diagram](the-unit-game/architecture-diagram.md)
+* [Game Process Overview](the-unit-game/game-process-overview.md)
+* [Ticket Sales](the-unit-game/ticket-sales.md)
+* [Prize Payouts](the-unit-game/prize-payouts.md)
