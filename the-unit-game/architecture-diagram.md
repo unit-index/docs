@@ -1,5 +1,5 @@
 ---
-description: Here is a description of the architecture of The Unit Game.
+description: Here is a description of the architecture of The UNIT Game.
 ---
 
 # Architecture Diagram
