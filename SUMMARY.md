@@ -19,6 +19,7 @@
 ## UNIT Vaults
 
 * [Intro](unit-vaults/intro.md)
+* [Sepolia Testnet Contracts](unit-vaults/sepolia-testnet-contracts.md)
 * [Collateralized Vaults: TINU Minting & Burning](unit-vaults/collateralized-vaults-tinu-minting-and-burning.md)
 * [Closing a Vault](unit-vaults/closing-a-vault.md)
 * [Account Liquidations](unit-vaults/account-liquidations.md)
