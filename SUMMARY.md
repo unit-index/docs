@@ -15,6 +15,7 @@
 * [Population Data](unit/population-data.md)
 * [UNIT's API](unit/the-unit-api.md)
 * [The UNIT Governance](unit/governance.md)
+* [UN Allocation](unit/un-allocation.md)
 
 ## UNIT Vaults
 
