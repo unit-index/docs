@@ -22,7 +22,7 @@ Total UN Supply: `8,589,934,592 UN`
 
 The Early Development and Development Funds will be allocated to the treasury of the UNIT project to launch Grants, Community Incentives, Protocol development, and other growth and development strategies.
 
-The release schedule is as follows:
+UN tokens will be released from Oct 2023 to Oct 2030. The release schedule is as follows:
 
 |                       |        Oct 2023 |        Apr 2024 |        Oct 2024 |        Apr 2025 |        Oct 2025 |        Apr 2026 |        Oct 2026 |        Apr 2027 |        Oct 2027 |        Apr 2028 |        Oct 2028 |        Apr 2029 |        Oct 2029 |        Apr 2030 |        Oct 2030 |
 | --------------------- | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: |
