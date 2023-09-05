@@ -6,7 +6,7 @@ description: This is the plan for distribution of our UN token
 
 Most UN tokens will be managed by the community through an ICO, Airdrops, Token Swaps, Farming, and the project’s short-term and long-term development funds; with only 25% given to Angels and the Team.
 
-Total UN Supply: `8,589,934,592 UN`
+Total UN Supply: $$2^{33}=$$`8,589,934,592 UN`
 
 | <p><br></p>                |          **UN** |    **%** |
 | -------------------------- | --------------: | -------: |
