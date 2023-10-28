@@ -4,7 +4,7 @@ description: UNIT's API uses GraphQL
 
 # UNIT's API
 
-Playground Url: https://graph.theunit.one
+Playground Url: https://graph.unitindex.org
 
 ## Schemas
 

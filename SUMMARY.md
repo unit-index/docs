@@ -5,9 +5,6 @@
 ## The UNIT
 
 * [UNIT's Algorithm](the-unit/algorithm.md)
-* [UNIT's Selection Criteria](the-unit/units-selection-criteria.md)
-* [Average Market Cap to Volume Ratio](the-unit/average-market-cap-to-volume-ratio.md)
-* [Population Data](the-unit/population-data.md)
 * [UNIT's API](the-unit/the-unit-api.md)
 * [The UNIT Governance](the-unit/governance.md)
 * [UN Allocation](the-unit/un-allocation.md)
