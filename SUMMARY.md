@@ -2,11 +2,6 @@
 
 * [Welcome to The UNIT Docs](README.md)
 
-## Intro
-
-* [What is UNIT?](intro/what-is-the-unit.md)
-* [Why do we need UNIT?](intro/why-do-we-need-the-unit.md)
-
 ## UNIT
 
 * [UNIT's Algorithm](unit/algorithm.md)
