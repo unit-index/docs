@@ -33,4 +33,30 @@ Let $$S$$ be the total current supply of the Rank 1 currency (currently Bitcoin)
 3. Issuance: The consensus rules must define the currency supply.
 4. Availability: As a weak rule, 50% of the supply must be available for trading.
 
-\* For a calculation of $$R$$ see [average-market-cap-to-volume-ratio.md](average-market-cap-to-volume-ratio.md "mention").
+\* The next section is the calculation of $$R$$.
+
+## Average Market Cap to Volume Ratio
+
+Label the coins creating UNIT $$1,\ldots,n$$. For each coin $$c$$ in $$\{1,\ldots,n\}$$ and each day $$d$$ of the last 180 days,
+
+$$
+R_{c,180}=\frac{\displaystyle\sum_{d=1}^{180} S_{c,d}P_{c,d}}{\displaystyle\sum_{d=1}^{180}V_{c,d}},
+$$
+
+where $$S_{c,d}$$ is the supply of coin $$c$$ on day $$d$$, $$P_{c,d}$$ is the price in UNIT of coin $$c$$ on day $$d$$, and $$V_{c,d}$$ is the trading volume in UNIT of coin $$c$$ on day $$d$$.
+
+Then,
+
+$$
+R=\frac{\displaystyle\sum_{c=1}^{n} R_{c,180}}{n}.
+$$
+
+## Population Data
+
+Currently, we use the population data estimated by the United Nations Department of Economic and Social Affairs [Population Division](https://population.un.org/). We found this to be the most accurate.
+
+In the future, we would like to collaborate with several population oracles to update this data more often and increase its accuracy.
+
+We use these data because this way UNIT accounts for both live human experience and potential in human years. An increase in human years would indicate a potential increase in the economy and would also create an increase in the total number of Units. This makes UNIT extra stable as a financial benchmark for the global economy.
+
+The slow update of this data is acceptable for the correct functioning of UNIT since population and life expectancy at birth data changes slowly from year to year.
