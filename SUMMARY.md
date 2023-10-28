@@ -7,17 +7,17 @@
 * [UNIT's Algorithm](the-unit/algorithm.md)
 * [UNIT's API](the-unit/the-unit-api.md)
 
-## UNIT Governance
-
-* [UN Token](unit-governance/governance.md)
-* [UN Allocation](unit-governance/un-allocation.md)
-
 ## UNIT ETF
 
 * [TINU](unit-etf/intro.md)
 * [Collateralized Vaults](unit-etf/collateralized-vaults-tinu-minting-and-burning.md)
 * [Vault Management Guide](unit-etf/vault-management-guide.md)
 * [UNIT Farms](unit-etf/early-incentives.md)
+
+## UNIT Governance
+
+* [UN Token](unit-governance/governance.md)
+* [UN Allocation](unit-governance/un-allocation.md)
 
 ## THE UNIT PRIZE POOL (Alpha)
 
