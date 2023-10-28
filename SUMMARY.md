@@ -6,25 +6,22 @@
 
 * [UNIT's Algorithm](the-unit/algorithm.md)
 * [UNIT's API](the-unit/the-unit-api.md)
-* [The UNIT Governance](the-unit/governance.md)
-* [UN Allocation](the-unit/un-allocation.md)
 
-## UNIT Vaults
+## UNIT Governance
 
-* [Intro](unit-vaults/intro.md)
-* [Sepolia Testnet Contracts](unit-vaults/sepolia-testnet-contracts.md)
-* [Collateralized Vaults: TINU Minting & Burning](unit-vaults/collateralized-vaults-tinu-minting-and-burning.md)
-* [Closing a Vault](unit-vaults/closing-a-vault.md)
-* [Account Liquidations](unit-vaults/account-liquidations.md)
-* [Vault Management Guide](unit-vaults/vault-management-guide.md)
+* [UN Token](unit-governance/governance.md)
+* [UN Allocation](unit-governance/un-allocation.md)
 
-## UNIT Farms
+## UNIT ETF
 
-* [Early Incentives](unit-farms/early-incentives.md)
+* [TINU](unit-etf/intro.md)
+* [Collateralized Vaults](unit-etf/collateralized-vaults-tinu-minting-and-burning.md)
+* [Vault Management Guide](unit-etf/vault-management-guide.md)
+* [UNIT Farms](unit-etf/early-incentives.md)
 
-## THE UNIT PRIZE POOL
+## THE UNIT PRIZE POOL (Alpha)
 
-* [Architecture Diagram](the-unit-game/architecture-diagram.md)
-* [Game Process Overview](the-unit-game/game-process-overview.md)
-* [Ticket Sales](the-unit-game/ticket-sales.md)
-* [Prize Payouts](the-unit-game/prize-payouts.md)
+* [Architecture Diagram](the-unit-prize-pool-alpha/architecture-diagram.md)
+* [Game Process Overview](the-unit-prize-pool-alpha/game-process-overview.md)
+* [Ticket Sales](the-unit-prize-pool-alpha/ticket-sales.md)
+* [Prize Payouts](the-unit-prize-pool-alpha/prize-payouts.md)
