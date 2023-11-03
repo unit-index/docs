@@ -2,7 +2,7 @@
 description: UN is our governance and utility token
 ---
 
-# The UNIT Governance
+# UN Token
 
 UNIT is governed by the selection criteria and index formula algorithms. In turn, these algorithms can be slightly changed by the global community of contributors through voting mechanisms using the governing token of The UNIT, UN.
 
@@ -14,4 +14,4 @@ Governing processes are carried out using state-of-the-art voting and governing 
 
 Tools like Snapshot or Tally are used to vote on proposals, and a governance forum is used to discuss them. Governing processes are both community standards and current innovations.
 
-UN resources are outlined in [The UNIT's Resources paper](https://github.com/toknowwhy/the-unit-resources-paper/blob/main/the-unit-resources-paper.pdf).&#x20;
+UN resources are outlined in [The UNIT's Resources paper](https://github.com/toknowwhy/the-unit-resources-paper/blob/main/the-unit-resources-paper.pdf) and the [UN Allocation section](un-allocation.md).

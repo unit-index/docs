@@ -8,7 +8,7 @@ These docs are designed to describe the details of The UNIT project and present 
 
 ## What is UNIT?
 
-**UNIT(Ø)** is an **unbiased unit of account** created from a set of cryptocurrencies coming from an [**Open Selection Criteria**](broken-reference) and glued together through an [**Open Algorithm**](the-unit/algorithm.md) that includes [**population data**](broken-reference).
+**UNIT(Ø)** is an **unbiased unit of account** created from a set of cryptocurrencies coming from an [**Open Selection Criteria**](the-unit/algorithm.md#units-selection-criteria) and glued together through an [**Open Algorithm**](the-unit/algorithm.md) that includes [**population data**](the-unit/algorithm.md#population-data).
 
 ## Why do we need UNIT?
 
