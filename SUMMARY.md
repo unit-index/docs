@@ -13,6 +13,7 @@
 * [Collateralized Vaults](unit-etf/collateralized-vaults-tinu-minting-and-burning.md)
 * [Vault Management Guide](unit-etf/vault-management-guide.md)
 * [UNIT Farms](unit-etf/early-incentives.md)
+* [Bitcoin Dominance Trading](unit-etf/bitcoin-dominance-trading.md)
 
 ## UNIT Governance
 
