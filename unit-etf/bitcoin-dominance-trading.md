@@ -18,6 +18,6 @@ The following diagram explains how UNIT vaults can be used to long BTC dominance
 
 The following diagram explains the process to short Bitcoin Dominance.
 
-<figure><img src="../.gitbook/assets/Short BTC Dominance (1).png" alt=""><figcaption><p>Short BTC Dominance</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Short BTC Dominance (1) 2.png" alt=""><figcaption><p>Short BTC Dominance</p></figcaption></figure>
 
 **TINU** offers a key product to take advantage of the dominance play on BTC.
