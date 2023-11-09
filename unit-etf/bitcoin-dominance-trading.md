@@ -12,3 +12,12 @@ This way TINU creates a proxy to trade Bitcoin dominance as follows:
 
 The following diagram explains how UNIT vaults can be used to long BTC dominance.
 
+<figure><img src="../.gitbook/assets/Long BTC Dominance (1).png" alt=""><figcaption><p>Long BTC Dominance</p></figcaption></figure>
+
+## Short Bitcoin Dominance (Short wBTC against TINU)
+
+The following diagram explains the process to short Bitcoin Dominance.
+
+<figure><img src="../.gitbook/assets/Short BTC Dominance (1).png" alt=""><figcaption><p>Short BTC Dominance</p></figcaption></figure>
+
+**TINU** offers a key product to take advantage of the dominance play on BTC.
