@@ -1,9 +1,9 @@
-# Early Incentives
+# UNIT Farms
 
-Farming will create UNIT vaults and bring a stream of incentives to participants:
+Farms create UNIT vaults and bring a stream of UN incentives to participants.
 
-1. At launch, farming participants will receive rewards in the form of new UN from the **farming pool**.&#x20;
-2. Vault owners will also get paid **liquidation fees** from vaults' liquidations.&#x20;
-3. TINU can give additional income to vault owners by **lending** it at the leading lending platform **Aave**.
+<figure><img src="../.gitbook/assets/截屏2023-11-13 15.11.04.png" alt=""><figcaption><p>Farm Diagram</p></figcaption></figure>
 
-Staking participants receive staking incentives as long as they maintain the **collateralization level** sufficiently close to the requirement.
+1. Farmers receive rewards in the form of UN from the **farm pool**.&#x20;
+2. Vaults are **completely capitalized** by using **DEX LP tokens** as **collateral**.&#x20;
+3. Farmers also get rewards from **liquidity mining**.
