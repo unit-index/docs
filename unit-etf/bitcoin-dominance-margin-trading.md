@@ -2,17 +2,17 @@
 description: Guide to using TINU to trade BTC dominance
 ---
 
-# Bitcoin Dominance Trading
+# Bitcoin Dominance Margin Trading
 
 There is a burning desire from the community to trade bitcoin dominance. TINU makes this possible because UNIT offers the first decentralized way to introduce coins to the dominance calculations. All other current sources have a centralized way of decision-making when it comes to which coins are counted in market cap calculations. UNIT, however, is completely decentralized.
 
 This way TINU creates a proxy to trade Bitcoin dominance as follows:
 
-## Long Bitcoin Dominance (Long wBTC against TINU)
+## 2x Long Bitcoin Dominance (Long wBTC against TINU)
 
-The following diagram explains how UNIT vaults can be used to long BTC dominance.
+The following diagram explains how UNIT farms are used to long BTC dominance.
 
-<figure><img src="../.gitbook/assets/Long BTC Dominance (1).png" alt=""><figcaption><p>Long BTC Dominance</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2x Long wBTC Farm 3.png" alt=""><figcaption><p>2x Long wBTC</p></figcaption></figure>
 
 ## Short Bitcoin Dominance (Short wBTC against TINU)
 
