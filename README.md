@@ -28,4 +28,6 @@ To address all these issues, crypto also needs **a common benchmark and unit of 
 
 ### SDR
 
+<figure><img src=".gitbook/assets/Analogy SDR.jpg" alt=""><figcaption><p>SDR vs. UNIT</p></figcaption></figure>
+
 ### Indexed Units
