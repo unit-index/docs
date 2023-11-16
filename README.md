@@ -28,6 +28,10 @@ To address all these issues, crypto also needs **a common benchmark and unit of 
 
 ### SDR
 
+The **SDR (Special Drawing Rights)** is an international reserve asset. It is the unit of account for the International Monetary Fund **(not a currency)**. Its value is based on a basket of five currencies—the US dollar, the euro, the Chinese renminbi, the Japanese yen, and the British pound sterling, which are reviewed by the **IMF** every five years.
+
+On the other hand, UNIT is a unit of account representing a basket of leading cryptocurrencies. It is designed to be a stable and reliable reference for the valuation, trading, and settlement of crypto assets. Like SDR, UNIT aims to provide a global standard for the cryptocurrency market, enabling more stable, decentralized, and unbiased transactions.
+
 <figure><img src=".gitbook/assets/Analogy SDR.jpg" alt=""><figcaption><p>SDR vs. UNIT</p></figcaption></figure>
 
 ### Indexed Units
