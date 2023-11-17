@@ -1,10 +1,10 @@
 # UNIT's Algorithm
 
-[_The UNIT_ paper](https://github.com/toknowwhy/the-unit-paper/blob/main/the\_unit\_paper.pdf) describes the basis of UNIT's algorithm. We display two charts of the value of 1 unit over time on our website: the Bitcoin one (denominated in SATS) and the Ethereum one (in Finney).
+[_The UNIT_ paper](https://github.com/toknowwhy/the-unit-paper/blob/main/the\_unit\_paper.pdf) describes the basis of the UNIT's algorithm.
 
 ### How to Obtain UNIT's Value
 
-The value of 1 UNIT comes from the total market capitalization of our index divided by human years.
+In short, the value of 1 UNIT comes from the total market capitalization of our index divided by human years. To follow the value of UNIT we display three charts of the value of 1 UNIT over time on our website: the [Bitcoin chart](https://app.unitindex.org/unit/btc) (denominated in SATS), the [Ethereum chart](https://app.unitindex.org/unit/ETH) (in Finney), and the [USD chart](https://app.unitindex.org/unit/USD).
 
 ### Calculating the Total Market Capitalization
 
@@ -16,7 +16,7 @@ $$
 
 ### Finally
 
-We let $$N$$ be the current total number of humans and $$Y$$the average life expectancy at birth. And one unit of value is defined by:
+We let $$N$$ be the current total number of humans and $$Y$$the average life expectancy at birth. And one unit of value (1 UNIT)  is defined by:
 
 
 
@@ -26,10 +26,10 @@ $$
 
 ## UNIT's Selection Criteria
 
-Let $$S$$ be the total current supply of the Rank 1 currency (currently Bitcoin), and let $$\phi$$ be the golden ratio $$\frac{1+\sqrt{5}}{2}$$. Then the coins creating UNIT must satisfy the following conditions.
+Let $$S_1$$ be the total current supply of the Rank 1 currency (currently Bitcoin), and let $$\phi$$ be the golden ratio $$\frac{1+\sqrt{5}}{2}$$. Then the coins creating UNIT must satisfy the following conditions.
 
-1. Valuation: The 180D average daily market capitalization must be greater than $$\frac{S}{\phi^{12}}\approx\frac{S}{322}$$.
-2. Volume of Trade: The currency trades widely with at least a year of public trading. If $$R$$ is the 180D average market capitalization to trading volume ratio\*. The 180D average daily volumes must be greater than $$\frac{S}{\phi^{12}R}$$.
+1. Valuation: The 180D average daily market capitalization must be greater than $$\frac{S_1}{\phi^{12}}\approx\frac{S_1}{322}$$.
+2. Volume of Trade: The currency trades widely with at least a year of public trading. If $$R$$ is the 180D average market capitalization to trading volume ratio\*. The 180D average daily volumes must be greater than $$\frac{S_1}{\phi^{12}R}$$.
 3. Issuance: The consensus rules must define the currency supply.
 4. Availability: As a weak rule, 50% of the supply must be available for trading.
 
@@ -57,6 +57,6 @@ Currently, we use the population data estimated by the United Nations Department
 
 In the future, we would like to collaborate with several population oracles to update this data more often and increase its accuracy.
 
-We use these data because this way UNIT accounts for both live human experience and potential in human years. An increase in human years would indicate a potential increase in the economy and would also create an increase in the total number of Units. This makes UNIT extra stable as a financial benchmark for the global economy.
+We use these data because this way UNIT accounts for both live human experience and potential in human years. An increase in human years would indicate a potential increase in the economy and would also create an increase in the total number of units. This makes UNIT extra stable as a financial benchmark for the global economy.
 
-The slow update of this data is acceptable for the correct functioning of UNIT since population and life expectancy at birth data changes slowly from year to year.
+The slow update of this data is acceptable for the correct functioning of UNIT since population and life expectancy at birth data change slowly from year to year.
