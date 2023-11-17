@@ -24,6 +24,8 @@ To address all these issues, crypto also needs **a common benchmark and unit of 
 
 ### S\&P 500 vs. UNIT (Index/Index Fund)
 
+The **S\&P 500** is the leading index of companies in the world, it contains the top 500 companies in the USA. It’s also the most followed benchmark by index funds; index funds such as **BlackRock’s SPY** and **Vanguard’s VOO** have over **1T USD** following the index. The S\&P 500 index is issued and managed by S\&P Global, and they **license their index and charge index funds a percentage of their AUM**. In contrast, **UNIT** allows funds to follow it **without a fee or a license**. Our UNIT vaults also allow participants to **hold the index and trade coins against it without fees**. The **UNIT ETF (TINU)** is responsible for these features and others such as the ability to use leverage through flash loans to trade **Bitcoin dominance and the market share of many cryptocurrencies**. This way UNIT and its ETF offer a wide variety of tools to **hold the UNIT benchmark and hedge coins against it**.
+
 <figure><img src=".gitbook/assets/Analogy S&#x26;P500.png" alt=""><figcaption><p>S&#x26;P 500 vs. UNIT</p></figcaption></figure>
 
 ### SDR vs. UNIT (Indexed Unit)
