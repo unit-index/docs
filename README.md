@@ -2,7 +2,7 @@
 description: Documenting The UNIT Development
 ---
 
-# Welcome to The UNIT Docs
+# Intro to The UNIT Docs
 
 These docs are designed to describe the details of The UNIT project and present the steps toward our ultimate mission: **Unite & Build**.
 
@@ -12,19 +12,19 @@ These docs are designed to describe the details of The UNIT project and present 
 
 ## Why do we need UNIT?
 
-Crypto/Web3/Blockchain is a **whole new era**. Us coming into this exciting space often see ourselves surrounded by noise from the greatest next projects. However, we don't always want to expose ourselves to great losses or invest all of our time in cryptocurrency.&#x20;
+DeFi/Crypto/Web3/Blockchain is a **whole new era**. Coming into this exciting space we often see ourselves surrounded by noise from the greatest next projects. However, we don't always want to expose ourselves to great losses or invest all of our time in cryptocurrency.&#x20;
 
 **UNIT** gives us a way to follow the entire crypto market, and invest in the space as a whole, instead of in some individual projects. **UNIT** also takes away the stress of managing our crypto portfolio, freeing us up to concentrate on other crucial and meaningful tasks.
 
-Moreover, with its centralization and perpetual inflation, traditional fiat currency is losing its capacity to serve as a value measure in crypto, and the **increasing fragmentation** in the space is impeding crypto's growth and adoption.&#x20;
+Moreover, with its centralization and perpetual inflation, **fiat currency** is losing its capacity to serve as a value measure in crypto, and the **increasing fragmentation** in the space is impeding crypto's growth and adoption.&#x20;
 
-To address all these issues, crypto also needs **a common benchmark and unit of account**. A **unified** cryptocurrency space could transform the landscape, fostering the seamless integration of this new world into daily life. **UNIT** also fulfills this role.
+To address all these issues, crypto also needs **a common benchmark and unit of account**. A **unified** cryptocurrency space could transform the landscape, fostering the seamless integration of this new world into our daily lives. **UNIT** also fulfills this role.
 
-## How does UNIT compare to existing financial products?
+## How does UNIT compare to fiat financial products?
 
 ### S\&P 500 vs. UNIT (Index/Index Fund)
 
-The **S\&P 500** is the leading index of companies in the world, it contains the top 500 companies in the USA. It’s also the most followed benchmark by index funds; index funds such as **BlackRock’s SPY** and **Vanguard’s VOO** have over **1T USD** following the index. The S\&P 500 index is issued and managed by S\&P Global, and they **license their index and charge index funds a percentage of their AUM**. In contrast, **UNIT** allows funds to follow it **without a fee or a license**. Our UNIT vaults also allow participants to **hold the index and trade coins against it without fees**. The **UNIT ETF (TINU)** is responsible for these features and others such as the ability to use leverage through flash loans to trade **Bitcoin dominance and the market share of many cryptocurrencies**. This way UNIT and its ETF offer a wide variety of tools to **hold the UNIT benchmark and hedge coins against it**.
+The **S\&P 500** is the leading index of companies in the world, it contains the top 500 companies in the USA. It’s also the most followed benchmark by index funds; index funds such as **BlackRock’s SPY** and **Vanguard’s VOO** have over **1T USD** following the index. The S\&P 500 index is issued and managed by S\&P Global, and they **license their index and charge index funds a percentage of their AUM**. In contrast, **UNIT** as an index of cryptocurrencies allows funds to follow it **without a fee or a license**. Our UNIT vaults also allow participants to **hold the index and trade coins against it without fees**. The **UNIT ETF (TINU)** is responsible for these features and others such as the ability to use leverage through flash loans to trade **Bitcoin dominance and the market share of many cryptocurrencies**. This way UNIT and its ETF offer a wide variety of tools to **hold the UNIT benchmark and hedge coins against it**.
 
 <figure><img src=".gitbook/assets/Analogy S&#x26;P500.png" alt=""><figcaption><p>S&#x26;P 500 vs. UNIT</p></figcaption></figure>
 
@@ -44,6 +44,6 @@ UF is a store of value, it constantly **adjusts with inflation**. In other words
 
 This is an innovative idea born from Chile’s own experience with hyperinflation several decades ago, and it should be accessible not only to Chileans but to everyone.
 
-The UNIT agrees with UF in allowing people to **count in real value** and hold their purchasing power, in the UNIT’s case, **hold purchasing power in the crypto space**. While having the same essence of being **a unit of account that is not a currency**, the UNIT can now grow boundlessly thanks to the openness and decentralization in the cryptocurrency space. The UNIT eliminates the difficulties with UF’s high entry barrier, permissioned use, and central control over its algorithm. By replacing centralization with decentralization, we gain a more **accurate, unbiased, and accessible unit of account for DeFi**.
+The UNIT agrees with UF in allowing people to **count in real value** and hold their purchasing power, in the UNIT’s case, **hold purchasing power in the crypto space**. While having the same essence of being **a unit of account that is not a currency**, the UNIT can now grow without borders thanks to the openness and decentralization in the cryptocurrency space. The UNIT eliminates the difficulties with UF’s high entry barrier, permissioned use, and central control over its algorithm. By replacing centralization with decentralization, we gain a more **accurate, unbiased, and accessible unit of account for DeFi**.
 
 <figure><img src=".gitbook/assets/Analogy UF.png" alt=""><figcaption><p>UF vs. UNIT</p></figcaption></figure>
