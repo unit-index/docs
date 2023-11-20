@@ -12,7 +12,7 @@ This way TINU creates a proxy to trade Bitcoin dominance as follows:
 
 The following diagram explains how UNIT farms are used to long BTC dominance.
 
-<figure><img src="../.gitbook/assets/2x Long wBTC Farm 3.png" alt=""><figcaption><p>2x Long wBTC</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/2x Farm white version.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/2x Long wBTC Farm 3.png" alt=""></picture><figcaption><p>2x Long wBTC</p></figcaption></figure>
 
 ## Short Bitcoin Dominance (Short wBTC against TINU)
 

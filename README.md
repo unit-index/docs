@@ -34,7 +34,7 @@ The **SDR (Special Drawing Rights)** is an international reserve asset. It is th
 
 On the other hand, UNIT is **a unit of account representing a basket of leading cryptocurrencies**. It is designed to be **a stable and reliable reference for the valuation, trading, and settlement of crypto assets**. Like SDR, UNIT aims to provide **a global standard for the cryptocurrency market, enabling more stable, decentralized, and unbiased transactions**.
 
-<figure><img src=".gitbook/assets/Analogy SDR.jpg" alt=""><figcaption><p>SDR vs. UNIT</p></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/SDR white version (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Analogy SDR.jpg" alt=""></picture><figcaption><p>SDR vs. UNIT</p></figcaption></figure>
 
 ### UF vs. UNIT (Unit of Account/Flatcoin)
 
@@ -46,4 +46,4 @@ This is an innovative idea born from Chile’s own experience with hyperinflatio
 
 The UNIT agrees with UF in allowing people to **count in real value** and hold their purchasing power, in the UNIT’s case, **hold purchasing power in the crypto space**. While having the same essence of being **a unit of account that is not a currency**, the UNIT can now grow without borders thanks to the openness and decentralization in the cryptocurrency space. The UNIT eliminates the difficulties with UF’s high entry barrier, permissioned use, and central control over its algorithm. By replacing centralization with decentralization, we gain a more **accurate, unbiased, and accessible unit of account for DeFi**.
 
-<figure><img src=".gitbook/assets/Analogy UF.png" alt=""><figcaption><p>UF vs. UNIT</p></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/UF white version (1).png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Analogy UF.png" alt=""></picture><figcaption><p>UF vs. UNIT</p></figcaption></figure>
