@@ -6,6 +6,8 @@ description: UN is our governance and utility token
 
 UNIT is governed by the selection criteria and index formula algorithms. In turn, these algorithms can be slightly changed by the global community of contributors through voting mechanisms using the governing token of The UNIT, UN.
 
+<figure><picture><source srcset="../.gitbook/assets/asset-1 (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/asset-2 (1) (1).png" alt=""></picture><figcaption><p>UN</p></figcaption></figure>
+
 The UN holders govern The UNIT by using UN to vote on proposals. The governance token for The UNIT is designed initially to govern the algorithm through a minimal set of governing voting processes. There is a grace period in which UN holders can veto an approved proposal if it is considered risky to the system.
 
 As the road map unwraps, we will carry out a rollout on the most extensive and most widely accepted asset-enabled transactional layers, including but not limited to Ethereum.
