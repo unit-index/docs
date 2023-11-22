@@ -16,7 +16,7 @@ $$
 
 ### Finally
 
-We let $$N$$ be the current total number of humans and $$Y$$the average life expectancy at birth. And one unit of value (1 UNIT)  is defined by:
+To normalize our unit we let $$N$$ be the current total number of humans and $$Y$$the average life expectancy at birth. And one unit of value (1 UNIT)  is defined by:
 
 
 
