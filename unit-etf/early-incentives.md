@@ -2,7 +2,7 @@
 
 Farms create UNIT vaults and bring a stream of UN incentives to participants.
 
-<figure><picture><source srcset="../.gitbook/assets/UNIT Farm white version.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/UNIT Farm.png" alt=""></picture><figcaption><p>wBTC UNIT Farm Diagram</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/UNIT Farm.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/UNIT Farm (1).png" alt=""></picture><figcaption><p>wBTC UNIT Farm Diagram</p></figcaption></figure>
 
 1. Farmers receive rewards in the form of UN from the **farm pool**.&#x20;
 2. Vaults are **completely capitalized** by using **DEX LP tokens** as **collateral**.&#x20;
