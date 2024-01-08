@@ -6,6 +6,7 @@
 
 * [UNIT's Algorithm](the-unit/algorithm.md)
 * [UNIT's API](the-unit/the-unit-api.md)
+* [UNIT Charts](the-unit/unit-charts.md)
 
 ## UNIT ETF
 
