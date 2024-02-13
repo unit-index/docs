@@ -4,11 +4,13 @@ description: Documenting The UNIT Development
 
 # Intro to The UNIT Docs
 
-These docs are designed to describe the details of The UNIT project and present the steps toward our ultimate mission: **Unite & Build**.
+These docs are designed to describe the details of The UNIT project and present the steps toward our ultimate mission: **Unite & Build**.&#x20;
 
 ## What is UNIT?
 
 **UNIT(Ø)** is an **unbiased unit of account** created from a set of cryptocurrencies coming from an [**Open Selection Criteria**](the-unit/algorithm.md#units-selection-criteria) and glued together through an [**Open Algorithm**](the-unit/algorithm.md) that includes [**population data**](the-unit/algorithm.md#population-data).
+
+**UNIT(Ø)** is designed to be the ruler of DeFi, helping all participants to price with long-term stability. Apart from being an **Indexed Unit, UNIT(Ø)** also serves as the basis for the development of a long-term **flat coin** that following this benchmark acts as a long-term **stable asset**.
 
 ## Why do we need UNIT?
 
