@@ -13,6 +13,8 @@
 * [TINU](unit-etf/intro.md)
 * [Collateralized Vaults](unit-etf/collateralized-vaults-tinu-minting-and-burning.md)
 * [Vault Management Guide](unit-etf/vault-management-guide.md)
+* [Contracts](unit-etf/contracts/README.md)
+  * [Vault Contract](unit-etf/contracts/vault-contract.md)
 * [UNIT Farms](unit-etf/early-incentives.md)
 * [Bitcoin Dominance Margin Trading](unit-etf/bitcoin-dominance-margin-trading.md)
 
