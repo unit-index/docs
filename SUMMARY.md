@@ -7,12 +7,19 @@
 * [UNIT's Algorithm](the-unit/algorithm.md)
 * [UNIT's API](the-unit/the-unit-api.md)
 * [UNIT Charts](the-unit/unit-charts.md)
-* [Glossary](the-unit/glossary.md)
+* [Glossary](the-unit/glossary/README.md)
+  * [Index](the-unit/glossary/index.md)
+  * [Index Fund](the-unit/glossary/index-fund.md)
+  * [Benchmark](the-unit/glossary/benchmark.md)
+  * [Unit of Account](the-unit/glossary/unit-of-account.md)
+  * [Bitcoin Dominance](the-unit/glossary/bitcoin-dominance.md)
 
 ## UNIT ETF
 
 * [TINU](unit-etf/intro.md)
 * [Collateralized Vaults](unit-etf/collateralized-vaults-tinu-minting-and-burning.md)
+* [Liquidation](unit-etf/liquidation.md)
+* [Auction](unit-etf/auction.md)
 * [Vault Management Guide](unit-etf/vault-management-guide.md)
 * [Contracts](unit-etf/contracts/README.md)
   * [Vault Contract](unit-etf/contracts/vault-contract.md)
