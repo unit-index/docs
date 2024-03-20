@@ -23,3 +23,5 @@ description: Definition of relevant terms
 8. Flash Loan: A flash loan is a type of loan where a user borrows assets with no upfront collateral and returns the borrowed assets within the same blockchain transaction.
 9. **Flash Loan Fee**: A fee required to be paid to the borrower in the flash loan transaction.
 10. **Inflation Hedge**: an investment that is considered to provide protection against the decreased value of a currency.
+
+<figure><picture><source srcset="../.gitbook/assets/Unit DAO (UN) dark (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Unit DAO (UN) white.png" alt=""></picture><figcaption><p>The relationship between UNIT &#x26; TINU</p></figcaption></figure>

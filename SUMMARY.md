@@ -7,12 +7,7 @@
 * [UNIT's Algorithm](the-unit/algorithm.md)
 * [UNIT's API](the-unit/the-unit-api.md)
 * [UNIT Charts](the-unit/unit-charts.md)
-* [Glossary](the-unit/glossary/README.md)
-  * [Index](the-unit/glossary/index.md)
-  * [Index Fund](the-unit/glossary/index-fund.md)
-  * [Benchmark](the-unit/glossary/benchmark.md)
-  * [Unit of Account](the-unit/glossary/unit-of-account.md)
-  * [Bitcoin Dominance](the-unit/glossary/bitcoin-dominance.md)
+* [Glossary](the-unit/glossary.md)
 
 ## UNIT ETF
 
