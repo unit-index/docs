@@ -1,52 +1,40 @@
 # UNIT's Algorithm
 
-[_The UNIT_ paper](https://github.com/toknowwhy/the-unit-paper/blob/main/the\_unit\_paper.pdf) describes the basis of the UNIT's algorithm.
+[_The UNIT_ paper](https://github.com/toknowwhy/the-unit-paper/blob/main/the\_unit\_paper.pdf) describes the basis of the UNIT's algorithm. UNIT's algorithm aims to track what it would be to hold the top cryptocurrencies over the long haul.
 
 ### How to Obtain UNIT's Value
 
-In short, the value of 1 UNIT comes from the total market capitalization of our index divided by human years. To follow the value of UNIT we display three charts of the value of 1 UNIT over time on our website: the [Bitcoin chart](https://app.unitindex.org/unit/btc) (denominated in SATS), the [Ethereum chart](https://app.unitindex.org/unit/ETH) (in Finney), and the [USD chart](https://app.unitindex.org/unit/USD).
+In short, the value of 1 UNIT comes from the relative price motions of the top cryptocurrencies. To follow the value of UNIT we display three charts of the value of 1 UNIT over time on our website: the [Bitcoin chart](https://app.unitindex.org/unit/btc) (denominated in SATS), the [Ethereum chart](https://app.unitindex.org/unit/ETH) (in Finney), and the [USD chart](https://app.unitindex.org/unit/USD).
 
-### Calculating the Total Market Capitalization
+### Calculating the Value of UNIT
 
-The total market capitalization is calculated by choosing cryptocurrency $$1$$ with supply $$S_1$$ _and adding the available supplies of each cryptocurrency_ $$(S_c)$$_times the price of each cryptocurrency_ $$c$$ _in terms of cryptocurrency_ $$1$$ $$(P_{c,1})$$_._
+First, we chose the first cryptocurrency ever created, Bitcoin, to price other coins in terms of that one.
 
-$$
-S_1+S_2 P_{2,1}+\cdots+ S_n\ P_{n,1} = \displaystyle\sum_{c=0}^{n} S_cP_{c,1}
-$$
-
-### Finally
-
-To normalize and anchor our unit to humanity, we let $$N$$ be the current total number of humans and $$Y$$the average life expectancy at birth. And one unit of value (1 UNIT)  is defined by:
-
-
+We define the weight $$w_{C, m}$$ of a coin $$C$$ on a given month $$m$$ as the market cap of that coin at the beginning of the month over the total market cap of all coins in the UNIT at the given month.
 
 $$
-\frac{S_1+S_2 P_{2,1}+\cdots+ S_n\ P_{n,1}}{NY}.
+w_{C,m}= \frac{M_{C,m}}{\sum_cM_{c,m}}
 $$
+
+As usual, the total market capitalization is calculated by adding the circulating supplies $$S_c$$ times the price of each cryptocurrency in the UNIT,  $$P_{c}$$, in terms of the first cryptocurrency, Bitcoin.
+
+$$
+\displaystyle\sum_{c} S_cP_{c}
+$$
+
+Let the UNIT on month $$m$$, $$U_m$$, be defined by
+
+$$
+U_m = \left(\sum_{c}\frac{P_{c,m}}{P_{c,m-1}} w_{c,m-1}\right) U_{m-1}
+$$
+
+where $$P_{c,m}$$ is the price of a coin $$c$$ in the Unit at month $$m$$ and  is the weight of a coin $$c$$ in the Unit at month $$m$$.
 
 ## UNIT's Selection Criteria
 
 Let $$S_1$$ be the total current supply of the Rank 1 currency (currently Bitcoin), and let $$\phi$$ be the golden ratio $$\frac{1+\sqrt{5}}{2}$$. Then the coins creating UNIT must satisfy the following conditions.
 
-1. Valuation: The 180D average daily market capitalization must be greater than $$\frac{S_1}{\phi^{12}}\approx\frac{S_1}{322}$$.
-2. Volume of Trade: The currency trades widely with at least a year of public trading. If $$R$$ is the 180D average market capitalization to trading volume ratio\*. The 180D average daily volumes must be greater than $$\frac{S_1}{\phi^{12}R}$$.
+1. Valuation: The 30D average daily market capitalization must be greater than $$\frac{S_1}{\phi^{12}}\approx\frac{S_1}{322}$$.
+2. Fundamental Metrics: - Volume of Trade: The currency trades widely with at least a year of public trading. - Fees Accrued: The currency or underlying project brings profits to miners, validators, and other verifying participants.
 3. Issuance: The consensus rules must define the currency supply.
 4. Availability: As a weak rule, 50% of the supply must be available for trading.
-
-\* The next section is the calculation of $$R$$.
-
-## Average Market Cap to Volume Ratio
-
-Label the coins creating UNIT $$1,\ldots,n$$. For each coin $$c$$ in $$\{1,\ldots,n\}$$ and each day $$d$$ of the last 180 days,
-
-$$
-R_{c,180}=\frac{\displaystyle\sum_{d=1}^{180} S_{c,d}P_{c,d}}{\displaystyle\sum_{d=1}^{180}V_{c,d}},
-$$
-
-where $$S_{c,d}$$ is the supply of coin $$c$$ on day $$d$$, $$P_{c,d}$$ is the price in UNIT of coin $$c$$ on day $$d$$, and $$V_{c,d}$$ is the trading volume in UNIT of coin $$c$$ on day $$d$$.
-
-Then,
-
-$$
-R=\frac{\displaystyle\sum_{c=1}^{n} R_{c,180}}{n}.
-$$
