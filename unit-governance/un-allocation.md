@@ -24,9 +24,9 @@ Total UN Supply: $$2^{33}=$$`8,589,934,592 UN`
 
 The Early Development and Development Funds will be allocated to the treasury of the UNIT project to launch Grants, Community Incentives, Protocol development, and other growth and development strategies.
 
-UN tokens will be released from December 2023 to June 2031. The supply available is the following:
+UN tokens will be released from February 2024 to Aug 2031. The supply available is the following:
 
-|                       |        Dec 2023 |        Dec 2024 |        Jun 2025 |        Dec 2025 |        Jun 2026 |        Dec 2026 |        Jun 2027 |        Dec 2027 |        Jun 2028 |        Dec 2028 |        Jun 2029 |        Dec 2029 |        Jun 2030 |        Dec 2030 |        Jun 2031 |
+|                       |        Feb 2024 |        Feb 2025 |        Aug 2025 |        Feb 2026 |        Aug 2026 |        Feb 2027 |        Aug 2027 |        Feb 2028 |        Aug 2028 |        Feb 2029 |        Aug 2029 |        Feb 2030 |        Aug 2030 |        Feb 2031 |        Aug 2031 |
 | --------------------- | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: |
 | **UN Swaps**          | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` |
 | **Airdrops**          |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |
