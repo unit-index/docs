@@ -2,7 +2,7 @@
 
 UNIT vaults are collateralized using assets admitted by The UNIT governance. Currently, **ETH** is the sole collateral source, but The UNIT governance will soon consider **other collateral sources**, such as the native tokens of **BSC, Polygon, Near,** and others**.** To mint TINU, participants must deposit ETH into UNIT vaults.&#x20;
 
-<figure><picture><source srcset="../.gitbook/assets/UNIT Vault (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/UNIT Vault dark version.png" alt=""></picture><figcaption><p>A UNIT Vault</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/UNIT Vault black (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/UNIT Vault white.png" alt=""></picture><figcaption><p>A UNIT Vault</p></figcaption></figure>
 
 Each vault only contains one particular asset and a set of **risk parameters** to ensure the stability of TINU:
 
