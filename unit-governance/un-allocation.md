@@ -24,9 +24,9 @@ Total UN Supply: $$2^{33}=$$`8,589,934,592 UN`
 
 The Early Development and Development Funds will be allocated to the treasury of the UNIT project to launch Grants, Community Incentives, Protocol development, and other growth and development strategies.
 
-UN tokens will be released from December 2023 to December 2030. The supply available is the following:
+UN tokens will be released from December 2023 to June 2031. The supply available is the following:
 
-|                       |        Dec 2023 |        Jun 2024 |        Dec 2024 |        Jun 2025 |        Dec 2025 |        Jun 2026 |        Dec 2026 |        Jun 2027 |        Dec 2027 |        Jun 2028 |        Dec 2028 |        Jun 2029 |        Dec 2029 |        Jun 2030 |        Dec 2030 |
+|                       |        Dec 2023 |        Dec 2024 |        Jun 2025 |        Dec 2025 |        Jun 2026 |        Dec 2026 |        Jun 2027 |        Dec 2027 |        Jun 2028 |        Dec 2028 |        Jun 2029 |        Dec 2029 |        Jun 2030 |        Dec 2030 |        Jun 2031 |
 | --------------------- | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: | --------------: |
 | **UN Swaps**          | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` | `1,342,177,280` |
 | **Airdrops**          |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |   `268,435,456` |
@@ -36,4 +36,4 @@ UN tokens will be released from December 2023 to December 2030. The supply avail
 | **Early Development** |   `268,435,456` |   `536,870,912` |   `805,306,368` | `1,073,741,824` | `1,342,177,280` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` | `1,610,612,736` |
 | **Development**       |                 |                 |                 |                 |                 |                 |   `268,435,456` |   `536,870,912` |   `805,306,368` | `1,073,741,824` | `1,342,177,280` | `1,610,612,736` | `1,879,048,192` | `2,147,483,648` | `2,415,919,104` |
 
-<figure><picture><source srcset="../.gitbook/assets/chart (24).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/chart (23).png" alt=""></picture><figcaption><p>UN Release Schedule</p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/allocationLight.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/allocationDark.png" alt=""></picture><figcaption><p>UN Release Schedule</p></figcaption></figure>
