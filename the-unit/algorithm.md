@@ -28,7 +28,7 @@ $$
 U_m = \left(\sum_{c}\frac{P_{c,m}}{P_{c,m-1}} w_{c,m-1}\right) U_{m-1}
 $$
 
-where $$P_{c,m}$$ is the price of a coin $$c$$ in the Unit at month $$m$$ and  is the weight of a coin $$c$$ in the Unit at month $$m$$.
+where $$P_{c,m}$$ is the price of a coin $$c$$ in the Unit at month $$m$$ and $$w_{c,m}$$ is the weight of a coin $$c$$ in the Unit at month $$m$$.
 
 ## UNIT's Selection Criteria
 
