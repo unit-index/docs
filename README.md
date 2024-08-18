@@ -16,11 +16,11 @@ These docs are designed to describe the details of The UNIT project and present 
 
 DeFi/Crypto/Web3/Blockchain is a **whole new era**. Coming into this exciting space we often see ourselves surrounded by noise from the greatest next projects. However, we don't always want to expose ourselves to great losses or invest all of our time in cryptocurrency.&#x20;
 
-**UNIT** gives us a way to follow the entire crypto market, and invest in the space as a whole, instead of in some individual projects. **UNIT** also takes away the stress of managing our crypto portfolio, freeing us up to concentrate on other crucial and meaningful tasks.
+**UNIT** **as an index** allows people to follow the entire crypto market, and invest in the space as a whole, instead of in some individual projects. UNIT also takes away the stress of managing our crypto portfolio, freeing us up to concentrate on other crucial and meaningful tasks.
 
-Moreover, with its centralization and perpetual inflation, **fiat currency** is losing its capacity to serve as a value measure in crypto, and the **increasing fragmentation** in the space is impeding crypto's growth and adoption.&#x20;
+Moreover, Satoshi's concept of decentralized digital currency challenges the traditional government-controlled monetary system. Yet, why do we still rely on government currencies to evaluate our wealth? With its centralization and perpetual inflation, fiat currency is losing its capacity to serve as a value measure in crypto, and the increasing fragmentation in the space is impeding crypto's growth and adoption.
 
-To address all these issues, crypto also needs **a common benchmark and unit of account**. A **unified** cryptocurrency space could transform the landscape, fostering the seamless integration of this new world into our daily lives. **UNIT** also fulfills this role.
+**UNIT as a crypto-based unit of account** also addresses this issue by creating the most accurate, fully decentralized valuation system based on the market cap of top cryptocurrencies. This not only liberates us from government wealth control but also symbolizes our collective participation in value creation and control.
 
 ## How does UNIT compare to fiat financial products?
 
