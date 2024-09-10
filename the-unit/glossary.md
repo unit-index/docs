@@ -10,6 +10,9 @@ description: Definition of relevant terms
 2. **Unit of Account**: a standard amount of value used to price assets in an economy.
 3. **Benchmark**: a standard by which asset performances are measured and judged.
 4. **Indexed Unit**: a unit of value defined by a formula in terms of an index.
+5. **Alpha**: a measure of an investment's performance relative to a benchmark index, typically the market. It represents the **excess return** or **outperformance** of an investment compared to the return of the benchmark. Positive alpha indicates that the investment has performed better than the market or benchmark, while negative alpha means underperforming.
+
+
 
 ## TINU
 
