@@ -13,22 +13,22 @@ First, we chose the first cryptocurrency ever created, Bitcoin, to price other c
 We define the weight $$w_{C, m}$$ of a coin $$C$$ on a given month $$m$$ as the market cap of that coin at the beginning of the month over the total market cap of all coins in the UNIT at the given month.
 
 $$
-w_{C,m}= \frac{M_{C,m}}{\sum_cM_{c,m}}
+w_{C,m}= \frac{M_{C,m}}{\sum_iM_{i,m}}
 $$
 
-As usual, the total market capitalization is calculated by adding the circulating supplies $$S_c$$ times the price of each cryptocurrency in the UNIT,  $$P_{c}$$, in terms of the first cryptocurrency, Bitcoin.
+As usual, the total market capitalization is calculated by adding the circulating supplies $$S_i$$ times the price of each cryptocurrency in the UNIT, $$P_{i}$$, in terms of the first cryptocurrency, Bitcoin.
 
 $$
-\displaystyle\sum_{c} S_cP_{c}
+\displaystyle\sum_{i} S_iP_{i}
 $$
 
-Let the UNIT on month $$m$$, $$U_m$$, be defined by
+Let the UNIT on month $$m$$, $$Ø_m$$, be defined by
 
 $$
-U_m = \left(\sum_{c}\frac{P_{c,m}}{P_{c,m-1}} w_{c,m-1}\right) U_{m-1}
+Ø_m = \left(\sum_{i}\frac{P_{i,m}}{P_{i,m-1}} w_{i,m-1}\right) U_{m-1}
 $$
 
-where $$P_{c,m}$$ is the price of a coin $$c$$ in the Unit at month $$m$$ and $$w_{c,m}$$ is the weight of a coin $$c$$ in the Unit at month $$m$$.
+where $$P_{i,m}$$ is the price of a coin $$i$$ in the Unit at month $$m$$ and $$w_{i,m}$$ is the weight of a coin $$i$$ in the Unit at month $$m$$.
 
 ## UNIT's Selection Criteria
 
