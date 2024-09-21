@@ -23,10 +23,10 @@
 * [UNIT Farms](unit-etf/early-incentives.md)
 * [Bitcoin Dominance Margin Trading](unit-etf/bitcoin-dominance-margin-trading.md)
 
-## UNIT Governance
+## UNIT DAO (Governance)
 
-* [UN Token](unit-governance/governance.md)
-* [UN Allocation](unit-governance/un-allocation.md)
+* [UN Token](unit-dao-governance/governance.md)
+* [UN Allocation](unit-dao-governance/un-allocation.md)
 
 ## THE UNIT PRIZE POOL (Alpha)
 
