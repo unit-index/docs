@@ -33,3 +33,13 @@
 * [Game Process Overview](the-unit-prize-pool-alpha/game-process-overview.md)
 * [Ticket Sales](the-unit-prize-pool-alpha/ticket-sales.md)
 * [Prize Payouts](the-unit-prize-pool-alpha/prize-payouts.md)
+
+## LINKS
+
+* [UNIT Github](https://github.com/unit-index)
+* [Whitepaper](https://github.com/unit-index/the-unit-paper/blob/main/the\_unit\_paper.pdf)
+
+## Community
+
+* [X](https://x.com/unit\_index)
+* [UNIT DAO X Community](https://x.com/i/communities/1675073163980591111)
