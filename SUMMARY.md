@@ -6,6 +6,7 @@
 
 * [UNIT's Algorithm](the-unit/algorithm.md)
 * [UNIT's Selection Criteria](the-unit/units-selection-criteria.md)
+* [UNIT's Oracle](the-unit/units-oracle.md)
 * [UNIT's API](the-unit/the-unit-api.md)
 * [UNIT Charts](the-unit/unit-charts.md)
 * [Glossary](the-unit/glossary.md)
