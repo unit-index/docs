@@ -20,13 +20,15 @@ UN resources are outlined in [The UNIT's Resources paper](https://github.com/tok
 
 ## **Types of Decisions in UNIT Governance**
 
-UN holders can propose and vote on a variety of governance decisions regarding the UNIT index and its related smart contracts. These decisions include:
+UNIT governance allows UN token holders to propose and vote on various decisions regarding the UNIT index and its associated smart contracts. Through the decentralized voting process, holders can directly influence the protocol’s key operational and technical elements. The types of decisions include:
 
-1. **Coin Inclusion in the UNIT Index:**\
-   UNIT holders vote to decide whether a new coin should be added to the UNIT index once it passes the established threshold for inclusion.
-2. **Algorithm Adjustments (Threshold, Components):**\
-   Governance can propose and agree on changes to the algorithm, including thresholds for coin inclusion and the components used to calculate the index.
-3. **Data Aggregator Platforms:**\
-   Changes to the platforms providing data for the index, including decisions on which data aggregator platforms to use, are subject to governance voting.
-4. **Upgrades to UNIT Smart Contracts:**\
-   Proposals for technical upgrades or changes to the UNIT smart contracts must be approved by UNIT holders through governance voting and executed by the governance multi-sig.
+1. **Coin Inclusion in the UNIT Index**\
+   UNIT holders vote on whether a new coin should be added to the UNIT index after it passes the predefined criteria for inclusion. This ensures that only assets that meet the community’s standards become part of the index.
+2. **Algorithm Adjustments (Thresholds, Components)**\
+   Governance can propose and vote on changes to the algorithm used to calculate the UNIT index, such as adjusting the thresholds for coin inclusion or altering the components that contribute to index calculations.
+3. **Data Aggregator Platforms**\
+   The decision on which platforms provide price and market cap data for the index is subject to voting. Governance can propose adding or removing specific data aggregators or exchanges based on performance, reliability, or other criteria. These changes are essential for maintaining the integrity and accuracy of the data feeding into the UNIT Oracle.
+4. **Minimum Node and Data Requirements for Oracle**\
+   Governance can vote on the minimum number of Oracle nodes and the number of signed prices required for Oracle to function reliably. This includes deciding how many nodes must be online at any given time and how many signed prices are needed for the system to calculate the final median price. Adjusting these thresholds can help improve the system's availability and security.
+5. **Upgrades to UNIT Smart Contracts**\
+   Any proposed upgrades or modifications to the UNIT smart contracts must go through governance voting. If approved, the changes are executed by the governance-controlled multi-signature wallet (multi-sig), ensuring that any technical upgrades align with the will of the community.
