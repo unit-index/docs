@@ -31,15 +31,15 @@ Once each node calculates its own median, it signs the result using its private 
 
 In the next stage, any user can submit at least five signed prices to the Ethereum smart contract. The smart contract will verify the signatures to ensure that they are from authorized Oracle nodes and then compute the second median from these five or more values. This second median represents the final price, which is then published on-chain.
 
-**Example —** If five nodes calculate the following median prices for Bitcoin:
+**Example —** If five nodes calculate the following median prices for **LINK**:
 
-* $29,000
-* $28,900
-* $29,500
-* $30,000
-* $29,200
+* Ø29,000
+* Ø28,900
+* Ø29,500
+* Ø30,000
+* Ø29,200
 
-The smart contract would compute the final median price as $29,200, representing the most reliable estimate from the available data.
+The smart contract would compute the final median price as Ø29,200, representing the most reliable estimate from the available data.
 
 ### How Prices and Market Caps Are Collected
 
