@@ -14,13 +14,13 @@
 ## UNIT ETF
 
 * [TINU](unit-etf/intro.md)
+* [Contracts](unit-etf/contracts/README.md)
+  * [Vault Contract](unit-etf/contracts/vault-contract.md)
+  * [Farm Contract](unit-etf/contracts/farm-contract.md)
 * [Collateralized Vaults](unit-etf/collateralized-vaults-tinu-minting-and-burning.md)
 * [Liquidation](unit-etf/liquidation.md)
 * [Auction](unit-etf/auction.md)
 * [Vault Management Guide](unit-etf/vault-management-guide.md)
-* [Contracts](unit-etf/contracts/README.md)
-  * [Vault Contract](unit-etf/contracts/vault-contract.md)
-  * [Farm Contract](unit-etf/contracts/farm-contract.md)
 * [UNIT Farms](unit-etf/early-incentives.md)
 * [Bitcoin Dominance Margin Trading](unit-etf/bitcoin-dominance-margin-trading.md)
 
