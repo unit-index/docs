@@ -4,7 +4,7 @@ description: Welcome to the documentation of the UNIT ETF contracts.
 
 # Contracts
 
-UNIT enables users to generate TINU, the world’s first crypto-based flatcoin backed by crypto collateral, providing both market growth potential and security. Explore how the system works.
+UNIT enables any human to generate TINU, crypto’s first indexed flatcoin backed by crypto collateral, providing both market growth potential and security. Explore how the system works.
 
 ## The UNIT Smart Contract Modules System
 
