@@ -2,7 +2,7 @@
 
 The UNIT Oracle is designed to gather token price and market cap data from various decentralized institutions, calculate the price of UNIT, and broadcast this information to the Ethereum blockchain. The Oracle ensures that the pricing data used to compute the UNIT index is both accurate and fair, utilizing a robust two-step median calculation process to enhance reliability and resistance to manipulation.
 
-<figure><img src="../.gitbook/assets/oracle nodes network transparent.png" alt=""><figcaption><p>UNIT Oracle Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/oracle nodes network transparent (2).png" alt=""><figcaption><p>UNIT Oracle Overview</p></figcaption></figure>
 
 ## **Network Composition**
 
